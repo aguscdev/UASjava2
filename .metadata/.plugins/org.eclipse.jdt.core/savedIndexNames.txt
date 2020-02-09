@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+D:\tugas android\.metadata\.plugins\org.eclipse.jdt.core
+3440360465.index
+3856213004.index
+1968561245.index
